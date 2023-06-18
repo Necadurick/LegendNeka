@@ -1,0 +1,2 @@
+# LegendNeka
+Log X
